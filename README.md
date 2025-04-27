@@ -1,7 +1,7 @@
 🔹 Project Overview:<br>
-> I developed a Python script to handle missing values in a CSV data file using the fillna() method from the pandas library.
+ I developed a Python script to handle missing values in a CSV data file using the fillna() method from the pandas library.
 
-🔹 Steps Followed:
+🔹 Steps Followed:<br>
 📂 1. Loaded the dataset into a DataFrame.<br>
 🔍 2. Identified columns with missing data.<br>
 🛠️ 3. Handled missing values using three central tendency measures:<br>
